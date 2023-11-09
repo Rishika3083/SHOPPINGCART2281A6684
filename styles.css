@@ -3,7 +3,7 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 10px;
     text-align: left;
-    background-color: bisque;
+    background-color: saffron;
 }
 .product{
     display:grid;
@@ -24,13 +24,13 @@ body {
 }
 
 .product, .cart-item {
-    border: 5px solid #2ec442;
+    border: 5px solid #8D4005;
     padding: 80px;
     margin-bottom: 80px;
 }
 
 button {
-    background-color: #af1c88;
+    background-color: #8f00ff;
     color: #ff;
     border: none;
     padding: 5px 10px;
