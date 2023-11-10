@@ -12,7 +12,7 @@ body {
 }
 .product{
     display:flex;
-    height: 50%;
+    height: 20%;
     justify-content: normal;
     align-items: normal;
     background-color: rgb(102, 192, 199);
